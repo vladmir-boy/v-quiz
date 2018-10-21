@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VQuiz", "VQuiz\VQuiz.csproj", "{0DD9A14F-C17E-457C-97AE-42B8904C1300}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VQuiz.Tests", "VQuiz.Tests\VQuiz.Tests.csproj", "{813A0347-130C-44E8-929C-C63EAD54CBBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{0DD9A14F-C17E-457C-97AE-42B8904C1300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DD9A14F-C17E-457C-97AE-42B8904C1300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DD9A14F-C17E-457C-97AE-42B8904C1300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{813A0347-130C-44E8-929C-C63EAD54CBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813A0347-130C-44E8-929C-C63EAD54CBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813A0347-130C-44E8-929C-C63EAD54CBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813A0347-130C-44E8-929C-C63EAD54CBBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
